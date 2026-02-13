@@ -14,7 +14,7 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="71" height="64" alt="image" src="https://github.com/user-attachments/assets/64dae958-ed5b-4c62-b3c2-9673de973b1e" />
 
 ## Задача 2
 
